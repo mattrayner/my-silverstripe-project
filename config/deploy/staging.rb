@@ -15,7 +15,7 @@ set :branch, 'dev-master'
 
 # Database settings, used for taking backups and restoring databases
 set :db_host, 'localhost'
-set :db_name, 'SS_my-silverstripe-project'
+set :db_name, 'SS'
 set :db_user, 'root'
 set :db_password, 'root'
 

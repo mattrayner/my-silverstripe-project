@@ -1,3 +1,6 @@
+# ignore intellij files
+.idea/
+
 # ignore cache folder
 /silverstripe-cache/
 
