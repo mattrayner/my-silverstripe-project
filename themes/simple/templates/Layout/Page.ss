@@ -4,6 +4,7 @@
 		<div class="banner"></div>
 		<h1>Title: $Title</h1>
 		<div class="content">Content: $Content</div>
+        <div class="banner"></div>
 	</article>
 		$Form
 		$CommentsForm

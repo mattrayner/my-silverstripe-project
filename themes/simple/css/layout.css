@@ -842,4 +842,4 @@ body h1 span.amp {
 	}
 }
 
-div.banner { background: blue; border: 1px dashed red; width: 100%; min-height: 200px; }
+div.banner { background: red; border: 10px dashed blue; width: 100%; min-height: 200px; }
